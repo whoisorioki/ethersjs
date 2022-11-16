@@ -1,0 +1,23 @@
+{
+  "name": "ethersjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisorioki/ethersjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoisorioki/ethersjs/issues"
+  },
+  "homepage": "https://github.com/whoisorioki/ethersjs#readme",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  }
+}
